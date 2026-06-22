@@ -1,5 +1,4 @@
 # hellooo idk how to create this shit so i'll just add silly pictures here
-<img src="https://komarev.com/ghpvc/?username=DESTROY-YOU&style=flat-square&color=blue" alt=""/>
 
 <img width="396" height="224" alt="Image" src="https://github.com/user-attachments/assets/9af3c4b4-a89e-4c5c-b677-de0c5fb5f347" />
 
